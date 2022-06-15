@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/almightyTaco/static/js/main.fadf7c80.js",
+    "main.js": "/almightyTaco/static/js/main.8959fe30.js",
     "index.html": "/almightyTaco/index.html",
-    "main.fadf7c80.js.map": "/almightyTaco/static/js/main.fadf7c80.js.map"
+    "main.8959fe30.js.map": "/almightyTaco/static/js/main.8959fe30.js.map"
   },
   "entrypoints": [
-    "static/js/main.fadf7c80.js"
+    "static/js/main.8959fe30.js"
   ]
 }
