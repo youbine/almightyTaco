@@ -1,10 +1,14 @@
 {
   "files": {
-    "main.js": "/almightyTaco/static/js/main.0864c044.js",
+    "main.css": "/almightyTaco/static/css/main.139cbabe.css",
+    "main.js": "/almightyTaco/static/js/main.bbbcea5a.js",
+    "static/media/Bg.png": "/almightyTaco/static/media/Bg.fb0955776e33a1929eca.png",
     "index.html": "/almightyTaco/index.html",
-    "main.0864c044.js.map": "/almightyTaco/static/js/main.0864c044.js.map"
+    "main.139cbabe.css.map": "/almightyTaco/static/css/main.139cbabe.css.map",
+    "main.bbbcea5a.js.map": "/almightyTaco/static/js/main.bbbcea5a.js.map"
   },
   "entrypoints": [
-    "static/js/main.0864c044.js"
+    "static/css/main.139cbabe.css",
+    "static/js/main.bbbcea5a.js"
   ]
 }
