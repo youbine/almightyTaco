@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/almightyTaco/static/css/main.8da976b4.css",
-    "main.js": "/almightyTaco/static/js/main.88f3431b.js",
+    "main.css": "/almightyTaco/static/css/main.4cfab104.css",
+    "main.js": "/almightyTaco/static/js/main.4e46cc2b.js",
     "static/media/PoetsenOne-Regular.ttf": "/almightyTaco/static/media/PoetsenOne-Regular.9a553614c0458410b697.ttf",
     "static/media/bg-orange.png": "/almightyTaco/static/media/bg-orange.779d6e6940cd72cfde72.png",
     "static/media/cardBg.png": "/almightyTaco/static/media/cardBg.50cfe0f1f0692a064561.png",
     "index.html": "/almightyTaco/index.html",
-    "main.8da976b4.css.map": "/almightyTaco/static/css/main.8da976b4.css.map",
-    "main.88f3431b.js.map": "/almightyTaco/static/js/main.88f3431b.js.map"
+    "main.4cfab104.css.map": "/almightyTaco/static/css/main.4cfab104.css.map",
+    "main.4e46cc2b.js.map": "/almightyTaco/static/js/main.4e46cc2b.js.map"
   },
   "entrypoints": [
-    "static/css/main.8da976b4.css",
-    "static/js/main.88f3431b.js"
+    "static/css/main.4cfab104.css",
+    "static/js/main.4e46cc2b.js"
   ]
 }
